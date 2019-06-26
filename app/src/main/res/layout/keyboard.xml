@@ -14,6 +14,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="q"
             android:text="q"/>
 
         <Button
@@ -21,6 +23,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="w"
             android:text="w"/>
 
         <Button
@@ -28,6 +32,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="e"
             android:text="e"/>
 
         <Button
@@ -35,6 +41,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="r"
             android:text="r"/>
 
         <Button
@@ -42,6 +50,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="t"
             android:text="t"/>
 
         <Button
@@ -49,6 +59,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="y"
             android:text="y"/>
 
         <Button
@@ -56,6 +68,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="u"
             android:text="u"/>
 
         <Button
@@ -63,6 +77,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="i"
             android:text="i"/>
 
         <Button
@@ -70,6 +86,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="o"
             android:text="o"/>
 
         <Button
@@ -77,6 +95,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="p"
             android:text="p"/>
 
     </LinearLayout>
@@ -90,6 +110,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="a"
             android:text="a"/>
 
         <Button
@@ -97,6 +119,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="s"
             android:text="s"/>
 
         <Button
@@ -104,6 +128,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="d"
             android:text="d"/>
 
         <Button
@@ -111,6 +137,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="f"
             android:text="f"/>
 
         <Button
@@ -118,6 +146,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="g"
             android:text="g"/>
 
         <Button
@@ -125,6 +155,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="h"
             android:text="h"/>
 
         <Button
@@ -132,6 +164,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="j"
             android:text="j"/>
 
         <Button
@@ -139,6 +173,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="k"
             android:text="k"/>
 
         <Button
@@ -146,6 +182,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="l"
             android:text="l"/>
 
     </LinearLayout>
@@ -159,6 +197,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="z"
             android:text="z"/>
 
         <Button
@@ -166,6 +206,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="x"
             android:text="x"/>
 
         <Button
@@ -173,6 +215,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="c"
             android:text="c"/>
 
         <Button
@@ -180,6 +224,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="v"
             android:text="v"/>
 
         <Button
@@ -187,6 +233,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="b"
             android:text="b"/>
 
         <Button
@@ -194,6 +242,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="n"
             android:text="n"/>
 
         <Button
@@ -201,6 +251,8 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
+            android:onClick="checkInput"
+            android:tag="m"
             android:text="m"/>
 
     </LinearLayout>
