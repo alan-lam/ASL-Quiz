@@ -6,7 +6,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.Random;
 
@@ -30,9 +29,6 @@ public class MainActivity extends AppCompatActivity {
             imageView.setVisibility(View.VISIBLE);
             delay(textView, imageView);
             showNewLetter();
-        }
-        else {
-            Toast.makeText(getApplicationContext(), "Nope!", Toast.LENGTH_SHORT).show();
         }
     }
 
